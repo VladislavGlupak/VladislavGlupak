@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/his
 - 🔭 I’m currently working on ... FinTech!
 - 🌱 I’m currently learning ... Solidity!
-- 👯 I’m looking to collaborate on ... Dapps!
+- 👯 I’m looking to collaborate on ... Dapps! Crypto!
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me:
      * [LinkedIn](https://www.linkedin.com/in/vladislav-glupak/)
