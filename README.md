@@ -8,7 +8,7 @@
 - 📫 How to reach me:
      * [LinkedIn](https://www.linkedin.com/in/vladislav-glupak/)
 - ⚡ Fun fact: 
-     * I like new technoligies
+     * I like new technologies
      * I like beer
      * I like video games
      * and cats, of course 😄
