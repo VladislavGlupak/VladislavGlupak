@@ -1,9 +1,7 @@
 ### Hi there 👋 My name is Vlad 😄
 
-- 🔭 I’m currently working on ... FinTech!
-- 🌱 I’m currently learning ... Solidity!
-- 👯 I’m looking to collaborate on ... Dapps! Crypto!
-- 💬 Ask me about ... Anything!
+- 🌱 I’m currently learning ... Python and Solidity!
+- 👯 I’m looking to collaborate on ... Machine learning! Dapps! Crypto!
 - 📫 How to reach me:
      * [LinkedIn](https://www.linkedin.com/in/vladislav-glupak/)
 - ⚡ Fun fact: 
